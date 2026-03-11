@@ -9240,6 +9240,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "smath": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "smf": {
       "baseline": "0.2.3",
       "port-version": 0
